@@ -272,7 +272,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Hung]
-  first_name: [Ethan, E., E.C.]
+  first_name: [Ethan, Ethan C., E., E.C., EC]
 
   style: apa
   locale: en
