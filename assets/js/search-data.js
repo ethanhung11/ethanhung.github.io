@@ -406,6 +406,13 @@ ninja.data = [{
           window.open("mailto:%74%65%73%74@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ethanhung11", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
