@@ -198,7 +198,7 @@ exclude:
   - profiles.md
   - repositories.md
   - teaching.md
-  - _posts/
+  - templates/
 
 # excludes:
 #   - _pages/templates/blog.md
